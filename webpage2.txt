@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semester Courses Enrolled</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        ol {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        li:last-child {
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Semester Courses Enrolled</h1>
+
+    <ol>
+        <li>Introduction to Computer Science</li>
+        <li>Data Structures and Algorithms</li>
+        <li>Discrete Mathematics</li>
+        <li>Operating Systems</li>
+        <li>Database Management Systems</li>
+        <li>Software Engineering</li>
+    </ol>
+
+</body>
+</html>
